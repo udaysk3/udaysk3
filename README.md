@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @udaysk3
-- 👀 I’m interested in Technology
+- 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on WEB-DEV projects
 - 📫 How to reach me burluudaysantoshkumar3@gmail.com
