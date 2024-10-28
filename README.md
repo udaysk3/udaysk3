@@ -3,7 +3,7 @@
 <h1 align="center" font-size=72>Hello , I'm <strong>Udaysantoshkumar</strong> <strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></strong></h1>
 <h3 align="center">A passionate developer solving real-world problems using technology.</h3>
 # 💫 About Me:
-🔭 I’m currently working on Django Projects<br><br>🌱 I’m currently learning Data Structures and Algorithms, Android Development, React & Angular<br><br>👯 I’m looking to collaborate on Web Development Projects<br><br>👨‍💻 All of my projects are available at https://github.com/udaysk3<br><br>💬 Ask me about Django, REST API, and Web Development<br><br>📫 How to reach me burluudaysantoshkumar3@gmail.com<br><br>📄 Know about my experiences https://bit.ly/udaysk_resume_oct_2024<br><br>⚡ Fun fact I love movies
+🔭 I’m currently working on Django Projects<br><br>🌱 I’m currently learning Data Structures and Algorithms, Android Development, React & Angular<br><br>👯 I’m looking to collaborate on Web Development Projects<br><br>👨‍💻 All of my projects are available at https://github.com/udaysk3<br><br>💬 Ask me about Django, REST API, and Web Development<br><br>📫 How to reach me burluudaysantoshkumar3@gmail.com<br><br>📄 Know about my experiences https://bit.ly/udaysk_oct_2024_resume<br><br>⚡ Fun fact I love movies
 
 
 ## 🌐 Socials:
